@@ -88,11 +88,17 @@ The following table highlights open-source projects that scaled into multi-billi
 | :--- | :--- | :--- | :--- |
 | [**Vagrant**](https://github.com/hashicorp/vagrant) / [**Terraform**](https://github.com/hashicorp/terraform) | HashiCorp | **$6.4B** (Acq by IBM) | **Indie**: Side project built by Mitchell Hashimoto while a student. |
 | [**Linux**](https://github.com/torvalds/linux) | Red Hat | **$34B** (Acq by IBM) | **Indie**: Started as a personal hobby project by student Linus Torvalds. |
+| [**Redis**](https://github.com/redis/redis) | Redis | **$2B+** (Private) | **Indie**: Solo project by Salvatore Sanfilippo (`antirez`) to improve his real-time log analyzer. |
+| [**Sentry**](https://github.com/getsentry/sentry) | Sentry | **$3B+** (Private) | **Indie**: Started as an open-source side project by David Cramer and Chris Jennings. |
+| [**MySQL**](https://github.com/mysql/mysql-server) | MySQL | **$1B** (Acq by Sun) | **Indie**: Started by Michael Widenius as a hobby project for managing his own data. |
 | [**Elasticsearch**](https://github.com/elastic/elasticsearch) | Elastic | **$8B+** (Public) | **Indie**: Solo project by Shay Banon to help his wife manage recipes. |
 | [**GitLab**](https://github.com/gitlabhq/gitlabhq) | GitLab | **$10B+** (Public) | **Indie**: Side project by Dmitriy Zaporozhets for internal team use. |
 | [**Grafana**](https://github.com/grafana/grafana) | Grafana Labs | **$6B** (Private) | **Indie**: Side project/fork built by Torkel Ödegaard to improve dashboards. |
 | [**WireGuard**](https://github.com/WireGuard/wireguard-linux) | Tailscale | **$1B+** (Private) | **Indie**: Solo security research project by Jason Donenfeld. |
 | [**Odoo**](https://github.com/odoo/odoo) | Odoo | **$3B+** (Private) | **Indie**: Started by Fabien Pinckaers as "TinyERP" in his dorm/small office. |
+| [**Nginx**](https://github.com/nginx/nginx) | Nginx | **$670M** (Acq by F5) | **Indie**: Solo project by Igor Sysoev to solve the "C10k" performance problem. |
+| [**PostHog**](https://github.com/PostHog/posthog) | PostHog | **$100M+** (Private) | **Indie**: Side project built to solve the need for open-source product analytics. |
+| [**Appwrite**](https://github.com/appwrite/appwrite) | Appwrite | **$100M+** (Private) | **Indie**: Solo project by Eldad Fux to build an open-source backend-as-a-service. |
 | [**Strapi**](https://github.com/strapi/strapi) | Strapi | **$100M+** (VC Backed) | **Indie**: Started as a university project by three students in France. |
 | [**Next.js**](https://github.com/vercel/next.js) | Vercel | **$3B+** (Private) | **Corporate**: Released by Zeit (now Vercel) as a flagship framework. |
 | [**Apache Spark**](https://github.com/apache/spark) | Databricks | **$43B** (Private) | **Academic**: Research project at UC Berkeley's AMPLab. |
