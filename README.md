@@ -14,9 +14,8 @@ A playbook and action plan for earning **$1,000,000 USD in one year** through Gi
 - [👋 Welcome & Introduction](#-welcome--introduction)
 - [✨ Why GitHub is a Goldmine](#-why-github-is-a-goldmine-for-earnings)
 - [🚀 Quick Start](#-quick-start)
-- [📚 Inspiration & Case Studies](#-inspiration--case-studies)
+- [📚 Inspiration & Success Stories](#-inspiration--success-stories)
 - [🛠️ Step-by-Step Strategies](#️-step-by-step-strategies-to-monetize-github)
-- [🌟 Success Stories](#-real-world-success-stories)
 - [✅ Essential Tips](#-essential-tips-for-github-success)
 - [🏁 Conclusion](#-conclusion)
 - [🤝 Contributing](#-contributing)
@@ -63,7 +62,7 @@ Get started on your journey to $1M with these simple steps:
 
 ---
 
-## 📚 Inspiration & Case Studies
+## 📚 Inspiration & Success Stories
 
 ### Caleb Porzio's Million-Dollar Journey 🌟
 
@@ -74,6 +73,12 @@ Get started on your journey to $1M with these simple steps:
 
 > “All of this works because I spent years honing my craft and producing software that is truly useful. … You saw earlier how I worked full‑time on an open‑source project for almost an entire year before seeing any returns.”
 > — *[calebporzio.com](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)*
+
+### More Real-World Success Stories 🚀
+
+- **The Extension Mogul**: A developer created a popular VS Code extension, hitting $800k in 2 years via sponsors and a "Pro" version.
+- **The Consultant**: An open-source API tool led to $1M+ in consulting deals with enterprise tech giants.
+- **The Educator**: Tutorials around a niche repo drove course sales and affiliate income to seven figures.
 
 ---
 
@@ -111,14 +116,6 @@ Here's a comprehensive plan to **make a million dollars on GitHub**. Start small
 🔗 **Strategic Networking**: Promote tools you already use and earn commissions.
 - **Integration ↔️**: Embed affiliate links in your READMEs and documentation.
 - **Collabs 🧑‍🤝‍🧑**: Partner with influencers for joint launches and shared revenue.
-
----
-
-## 🌟 Real-World Success Stories
-
-- **The Extension Mogul**: A developer created a popular VS Code extension, hitting $800k in 2 years via sponsors and a "Pro" version.
-- **The Consultant**: An open-source API tool led to $1M+ in consulting deals with enterprise tech giants.
-- **The Educator**: Tutorials around a niche repo drove course sales and affiliate income to seven figures.
 
 ---
 
