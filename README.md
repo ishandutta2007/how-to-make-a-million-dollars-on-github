@@ -82,21 +82,25 @@ Get started on your journey to $1M with these simple steps:
 
 ### From Open Source to Unicorn 🦄
 
-- **HashiCorp**: Started with [**Vagrant**](https://github.com/hashicorp/vagrant) and [**Terraform**](https://github.com/hashicorp/terraform) on GitHub, it revolutionized Infrastructure as Code and was acquired by IBM for **$6.4 Billion**.
-- **Vercel**: Built on the massive success of the open-source [**Next.js**](https://github.com/vercel/next.js) framework, Vercel transformed from a deployment tool into a **$3+ Billion** frontend platform.
-- **Supabase**: Positioned as the "Open Source Firebase alternative," it leveraged a passionate GitHub community ([**supabase/supabase**](https://github.com/supabase/supabase)) to secure **$116M+ in funding** and rapid enterprise adoption.
-- **Strapi**: What began as a student project ([**strapi/strapi**](https://github.com/strapi/strapi)) on GitHub is now the world's leading **open-source headless CMS**, with millions of downloads and significant VC backing.
-- **Hugging Face**: The "GitHub of AI" started by open-sourcing the [**transformers**](https://github.com/huggingface/transformers) library, creating a central hub for the AI revolution now valued at **$4.5 Billion**.
-- **Databricks**: Founded by the creators of [**Apache Spark**](https://github.com/apache/spark), it pioneered the "Lakehouse" category and is now valued at over **$43 Billion**.
-- **MongoDB**: The world's most popular NoSQL database started as an open-source project ([**mongodb/mongo**](https://github.com/mongodb/mongo)) and is now a public company with a market cap exceeding **$20 Billion**.
-- **GitLab**: An open-source alternative to GitHub that pioneered the "remote-only" model ([**gitlabhq/gitlabhq**](https://github.com/gitlabhq/gitlabhq)) and went public with a valuation of **$10+ Billion**.
-- **Confluent**: Built by the original creators of [**Apache Kafka**](https://github.com/apache/kafka) at LinkedIn, it transformed a data-streaming tool into a public company valued at **$7+ Billion**.
-- **Elastic**: The company behind [**Elasticsearch**](https://github.com/elastic/elasticsearch) (the ELK stack) scaled its open-source search engine into a public powerhouse valued at over **$8 Billion**.
-- **Grafana Labs**: Started as an open-source dashboard tool ([**grafana/grafana**](https://github.com/grafana/grafana)), it is now the industry standard for observability and visualization, valued at **$6 Billion**.
-- **Mistral AI**: A French startup that reached a **$6 Billion** valuation within its first year by releasing high-performance open-source LLMs ([**mistralai/mistral-inference**](https://github.com/mistralai/mistral-inference)).
-- **Red Hat**: The ultimate open-source pioneer proved you could build a massive business on [**Linux**](https://github.com/torvalds/linux) support, leading to a **$34 Billion** acquisition by IBM.
-- **Tailscale**: Built on the open-source [**WireGuard**](https://github.com/WireGuard/wireguard-linux) protocol, it revolutionized private networking for developers and reached a **$1B+ Unicorn** status.
-- **Odoo**: A comprehensive suite of open-source business apps ([**odoo/odoo**](https://github.com/odoo/odoo)) that scaled into a global ERP giant with a valuation of over **$3 Billion**.
+The following table highlights open-source projects that scaled into multi-billion dollar companies. It distinguishes between those that started as truly "indie" (individual/side projects) and those that were born within established companies or institutions.
+
+| Project / Repo Link | Company | Valuation / Exit | Indie Stage State |
+| :--- | :--- | :--- | :--- |
+| [**Vagrant**](https://github.com/hashicorp/vagrant) / [**Terraform**](https://github.com/hashicorp/terraform) | HashiCorp | **$6.4B** (Acq by IBM) | **Indie**: Side project built by Mitchell Hashimoto while a student. |
+| [**Linux**](https://github.com/torvalds/linux) | Red Hat | **$34B** (Acq by IBM) | **Indie**: Started as a personal hobby project by student Linus Torvalds. |
+| [**Elasticsearch**](https://github.com/elastic/elasticsearch) | Elastic | **$8B+** (Public) | **Indie**: Solo project by Shay Banon to help his wife manage recipes. |
+| [**GitLab**](https://github.com/gitlabhq/gitlabhq) | GitLab | **$10B+** (Public) | **Indie**: Side project by Dmitriy Zaporozhets for internal team use. |
+| [**Grafana**](https://github.com/grafana/grafana) | Grafana Labs | **$6B** (Private) | **Indie**: Side project/fork built by Torkel Ödegaard to improve dashboards. |
+| [**WireGuard**](https://github.com/WireGuard/wireguard-linux) | Tailscale | **$1B+** (Private) | **Indie**: Solo security research project by Jason Donenfeld. |
+| [**Odoo**](https://github.com/odoo/odoo) | Odoo | **$3B+** (Private) | **Indie**: Started by Fabien Pinckaers as "TinyERP" in his dorm/small office. |
+| [**Strapi**](https://github.com/strapi/strapi) | Strapi | **$100M+** (VC Backed) | **Indie**: Started as a university project by three students in France. |
+| [**Next.js**](https://github.com/vercel/next.js) | Vercel | **$3B+** (Private) | **Corporate**: Released by Zeit (now Vercel) as a flagship framework. |
+| [**Apache Spark**](https://github.com/apache/spark) | Databricks | **$43B** (Private) | **Academic**: Research project at UC Berkeley's AMPLab. |
+| [**Apache Kafka**](https://github.com/apache/kafka) | Confluent | **$7B+** (Public) | **Corporate**: Built as an internal data pipeline at LinkedIn. |
+| [**MongoDB**](https://github.com/mongodb/mongo) | MongoDB | **$20B+** (Public) | **Corporate**: Built by 10gen (the company) as a proprietary-turned-OSS database. |
+| [**Supabase**](https://github.com/supabase/supabase) | Supabase | **$1B+** (Private) | **Startup**: Born in Y Combinator specifically to challenge Firebase. |
+| [**Transformers**](https://github.com/huggingface/transformers) | Hugging Face | **$4.5B** (Private) | **Startup**: Built by the Hugging Face team as a foundational AI library. |
+| [**Mistral**](https://github.com/mistralai/mistral-inference) | Mistral AI | **$6B** (Private) | **Startup**: Founded by former Meta/Google researchers with seed funding. |
 
 ---
 
