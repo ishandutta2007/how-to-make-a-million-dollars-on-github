@@ -87,6 +87,16 @@ Get started on your journey to $1M with these simple steps:
 - **Supabase**: Positioned as the "Open Source Firebase alternative," it leveraged a passionate GitHub community to secure **$116M+ in funding** and rapid enterprise adoption.
 - **Strapi**: What began as a student project on GitHub is now the world's leading **open-source headless CMS**, with millions of downloads and significant VC backing.
 - **Hugging Face**: The "GitHub of AI" started by open-sourcing the `transformers` library, creating a central hub for the AI revolution now valued at **$4.5 Billion**.
+- **Databricks**: Founded by the creators of **Apache Spark**, it pioneered the "Lakehouse" category and is now valued at over **$43 Billion**.
+- **MongoDB**: The world's most popular NoSQL database started as an open-source project and is now a public company with a market cap exceeding **$20 Billion**.
+- **GitLab**: An open-source alternative to GitHub that pioneered the "remote-only" model and went public with a valuation of **$10+ Billion**.
+- **Confluent**: Built by the original creators of **Apache Kafka** at LinkedIn, it transformed a data-streaming tool into a public company valued at **$7+ Billion**.
+- **Elastic**: The company behind **Elasticsearch** (the ELK stack) scaled its open-source search engine into a public powerhouse valued at over **$8 Billion**.
+- **Grafana Labs**: Started as an open-source dashboard tool, it is now the industry standard for observability and visualization, valued at **$6 Billion**.
+- **Mistral AI**: A French startup that reached a **$6 Billion** valuation within its first year by releasing high-performance open-source Large Language Models (LLMs).
+- **Red Hat**: The ultimate open-source pioneer proved you could build a massive business on Linux support, leading to a **$34 Billion** acquisition by IBM.
+- **Tailscale**: Built on the open-source **WireGuard** protocol, it revolutionized private networking for developers and reached a **$1B+ Unicorn** status.
+- **Odoo**: A comprehensive suite of open-source business apps that scaled into a global ERP giant with a valuation of over **$3 Billion**.
 
 ---
 
