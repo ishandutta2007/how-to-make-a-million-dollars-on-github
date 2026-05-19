@@ -80,6 +80,14 @@ Get started on your journey to $1M with these simple steps:
 - **The Consultant**: An open-source API tool led to $1M+ in consulting deals with enterprise tech giants.
 - **The Educator**: Tutorials around a niche repo drove course sales and affiliate income to seven figures.
 
+### From Open Source to Unicorn 🦄
+
+- **HashiCorp**: Started with **Vagrant** and **Terraform** on GitHub, it revolutionized Infrastructure as Code and was acquired by IBM for **$6.4 Billion**.
+- **Vercel**: Built on the massive success of the open-source **Next.js** framework, Vercel transformed from a deployment tool into a **$3+ Billion** frontend platform.
+- **Supabase**: Positioned as the "Open Source Firebase alternative," it leveraged a passionate GitHub community to secure **$116M+ in funding** and rapid enterprise adoption.
+- **Strapi**: What began as a student project on GitHub is now the world's leading **open-source headless CMS**, with millions of downloads and significant VC backing.
+- **Hugging Face**: The "GitHub of AI" started by open-sourcing the `transformers` library, creating a central hub for the AI revolution now valued at **$4.5 Billion**.
+
 ---
 
 ## 🛠️ Step-by-Step Strategies to Monetize GitHub
