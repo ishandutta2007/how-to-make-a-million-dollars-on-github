@@ -100,6 +100,10 @@ The following table highlights open-source projects that scaled into multi-billi
 | [**PostHog**](https://github.com/PostHog/posthog) | PostHog | **$100M+** (Private) | **Indie**: Side project built to solve the need for open-source product analytics. |
 | [**Appwrite**](https://github.com/appwrite/appwrite) | Appwrite | **$100M+** (Private) | **Indie**: Solo project by Eldad Fux to build an open-source backend-as-a-service. |
 | [**Strapi**](https://github.com/strapi/strapi) | Strapi | **$100M+** (VC Backed) | **Indie**: Started as a university project by three students in France. |
+| [**Bitwarden**](https://github.com/bitwarden/browser) | Bitwarden | **$200M+** (Funding) | **Indie**: Solo project by Kyle Spearrin to build a secure, open-source password manager. |
+| [**Adblock Plus**](https://github.com/adblockplus/adblockplusui) | Eyeo GmbH | **$50M+** (Annual Rev) | **Indie**: Started as a side project/fork by Henrik Aasted Sørensen and later Michael McDonald. |
+| [**LanguageTool**](https://github.com/languagetool-org/languagetool) | LanguageTool | **$10M+** (Annual Rev) | **Indie**: Started as an open-source research project by Daniel Naber. |
+| [**Wappalyzer**](https://github.com/aliasio/wappalyzer) | Wappalyzer | **$1M+** (Annual Rev) | **Indie**: Solo side project by Elbert Alias to identify web technologies. |
 | [**Next.js**](https://github.com/vercel/next.js) | Vercel | **$3B+** (Private) | **Corporate**: Released by Zeit (now Vercel) as a flagship framework. |
 | [**Apache Spark**](https://github.com/apache/spark) | Databricks | **$43B** (Private) | **Academic**: Research project at UC Berkeley's AMPLab. |
 | [**Apache Kafka**](https://github.com/apache/kafka) | Confluent | **$7B+** (Public) | **Corporate**: Built as an internal data pipeline at LinkedIn. |
