@@ -102,8 +102,11 @@ The following table highlights open-source projects that scaled into multi-billi
 | [**Strapi**](https://github.com/strapi/strapi) | Strapi | **$100M+** (VC Backed) | **Indie**: Started as a university project by three students in France. |
 | [**Bitwarden**](https://github.com/bitwarden/browser) | Bitwarden | **$200M+** (Funding) | **Indie**: Solo project by Kyle Spearrin to build a secure, open-source password manager. |
 | [**Adblock Plus**](https://github.com/adblockplus/adblockplusui) | Eyeo GmbH | **$50M+** (Annual Rev) | **Indie**: Started as a side project/fork by Henrik Aasted Sørensen and later Michael McDonald. |
-| [**LanguageTool**](https://github.com/languagetool-org/languagetool) | LanguageTool | **$10M+** (Annual Rev) | **Indie**: Started as an open-source research project by Daniel Naber. |
+| [**LanguageTool**](https://github.com/languagetool-org/languagetool) | LanguageTool | **$3.3M+** (Annual Rev) | **Indie**: Started as an open-source research project by Daniel Naber. |
+| [**Ghostery**](https://github.com/ghostery/ghostery-extension) | Ghostery | **$Multi-Million** (Rev) | **Indie**: Started by David Cancel; later became a major privacy tool. |
+| [**Dark Reader**](https://github.com/darkreader/darkreader) | Dark Reader | **$200k+** (Annual Rev) | **Indie**: Solo project by Alexander Shutov; monetized via App Store & donations. |
 | [**Wappalyzer**](https://github.com/aliasio/wappalyzer) | Wappalyzer | **$1M+** (Annual Rev) | **Indie**: Solo side project by Elbert Alias to identify web technologies. |
+| [**RatePunk**](https://github.com/ratepunk/ratepunk) | RatePunk | **$600k+** (Annual Rev) | **Indie**: Travel-tech extension that scaled via affiliate commissions. |
 | [**Next.js**](https://github.com/vercel/next.js) | Vercel | **$3B+** (Private) | **Corporate**: Released by Zeit (now Vercel) as a flagship framework. |
 | [**Apache Spark**](https://github.com/apache/spark) | Databricks | **$43B** (Private) | **Academic**: Research project at UC Berkeley's AMPLab. |
 | [**Apache Kafka**](https://github.com/apache/kafka) | Confluent | **$7B+** (Public) | **Corporate**: Built as an internal data pipeline at LinkedIn. |
