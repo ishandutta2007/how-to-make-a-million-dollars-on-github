@@ -86,34 +86,42 @@ The following table highlights open-source projects that scaled into multi-billi
 
 | Project / Repo Link | Company | Valuation / Exit | Indie Stage State |
 | :--- | :--- | :--- | :--- |
-| [**Vagrant**](https://github.com/hashicorp/vagrant) / [**Terraform**](https://github.com/hashicorp/terraform) | HashiCorp | **$6.4B** (Acq by IBM) | **Indie**: Side project built by Mitchell Hashimoto while a student. |
 | [**Linux**](https://github.com/torvalds/linux) | Red Hat | **$34B** (Acq by IBM) | **Indie**: Started as a personal hobby project by student Linus Torvalds. |
-| [**Redis**](https://github.com/redis/redis) | Redis | **$2B+** (Private) | **Indie**: Solo project by Salvatore Sanfilippo (`antirez`) to improve his real-time log analyzer. |
-| [**Sentry**](https://github.com/getsentry/sentry) | Sentry | **$3B+** (Private) | **Indie**: Started as an open-source side project by David Cramer and Chris Jennings. |
-| [**MySQL**](https://github.com/mysql/mysql-server) | MySQL | **$1B** (Acq by Sun) | **Indie**: Started by Michael Widenius as a hobby project for managing his own data. |
-| [**Elasticsearch**](https://github.com/elastic/elasticsearch) | Elastic | **$8B+** (Public) | **Indie**: Solo project by Shay Banon to help his wife manage recipes. |
 | [**GitLab**](https://github.com/gitlabhq/gitlabhq) | GitLab | **$10B+** (Public) | **Indie**: Side project by Dmitriy Zaporozhets for internal team use. |
+| [**Elasticsearch**](https://github.com/elastic/elasticsearch) | Elastic | **$8B+** (Public) | **Indie**: Solo project by Shay Banon to help his wife manage recipes. |
+| [**Vagrant**](https://github.com/hashicorp/vagrant) / [**Terraform**](https://github.com/hashicorp/terraform) | HashiCorp | **$6.4B** (Acq by IBM) | **Indie**: Side project built by Mitchell Hashimoto while a student. |
 | [**Grafana**](https://github.com/grafana/grafana) | Grafana Labs | **$6B** (Private) | **Indie**: Side project/fork built by Torkel Ödegaard to improve dashboards. |
-| [**WireGuard**](https://github.com/WireGuard/wireguard-linux) | Tailscale | **$1B+** (Private) | **Indie**: Solo security research project by Jason Donenfeld. |
+| [**dbt**](https://github.com/dbt-labs/dbt-core) | dbt Labs | **$4.2B** (Private) | **Indie**: Started at a small consultancy (Fishtown Analytics) to solve data transformation workflows. |
+| [**Sentry**](https://github.com/getsentry/sentry) | Sentry | **$3B+** (Private) | **Indie**: Started as an open-source side project by David Cramer and Chris Jennings. |
 | [**Odoo**](https://github.com/odoo/odoo) | Odoo | **$3B+** (Private) | **Indie**: Started by Fabien Pinckaers as "TinyERP" in his dorm/small office. |
+| [**Redis**](https://github.com/redis/redis) | Redis | **$2B+** (Private) | **Indie**: Solo project by Salvatore Sanfilippo (`antirez`) to improve his real-time log analyzer. |
+| [**MySQL**](https://github.com/mysql/mysql-server) | MySQL | **$1B** (Acq by Sun) | **Indie**: Started by Michael Widenius as a hobby project for managing his own data. |
+| [**WireGuard**](https://github.com/WireGuard/wireguard-linux) | Tailscale | **$1B+** (Private) | **Indie**: Solo security research project by Jason Donenfeld. |
 | [**Nginx**](https://github.com/nginx/nginx) | Nginx | **$670M** (Acq by F5) | **Indie**: Solo project by Igor Sysoev to solve the "C10k" performance problem. |
+| [**Bitwarden**](https://github.com/bitwarden/browser) | Bitwarden | **$200M+** (Funding) | **Indie**: Solo project by Kyle Spearrin to build a secure, open-source password manager. |
+| [**Ansible**](https://github.com/ansible/ansible) | Red Hat | **$150M** (Acq by Red Hat) | **Indie**: Started by Michael DeHaan as a side project/solo tool. |
 | [**PostHog**](https://github.com/PostHog/posthog) | PostHog | **$100M+** (Private) | **Indie**: Side project built to solve the need for open-source product analytics. |
 | [**Appwrite**](https://github.com/appwrite/appwrite) | Appwrite | **$100M+** (Private) | **Indie**: Solo project by Eldad Fux to build an open-source backend-as-a-service. |
 | [**Strapi**](https://github.com/strapi/strapi) | Strapi | **$100M+** (VC Backed) | **Indie**: Started as a university project by three students in France. |
-| [**Bitwarden**](https://github.com/bitwarden/browser) | Bitwarden | **$200M+** (Funding) | **Indie**: Solo project by Kyle Spearrin to build a secure, open-source password manager. |
+| [**Cal.com**](https://github.com/calcom/cal.com) | Cal.com | **$100M+** (Private) | **Indie**: Side project by Peer Richelsen and Bailey Pumfrey to build an open-source Calendly alternative. |
 | [**Adblock Plus**](https://github.com/adblockplus/adblockplusui) | Eyeo GmbH | **$50M+** (Annual Rev) | **Indie**: Started as a side project/fork by Henrik Aasted Sørensen and later Michael McDonald. |
+| [**Ghost**](https://github.com/TryGhost/Ghost) | Ghost Foundation | **$5M+** (Annual Rev) | **Indie**: Started as a Kickstarter campaign by John O'Nolan to build a modern publishing platform. |
 | [**LanguageTool**](https://github.com/languagetool-org/languagetool) | LanguageTool | **$3.3M+** (Annual Rev) | **Indie**: Started as an open-source research project by Daniel Naber. |
 | [**Ghostery**](https://github.com/ghostery/ghostery-extension) | Ghostery | **$Multi-Million** (Rev) | **Indie**: Started by David Cancel; later became a major privacy tool. |
-| [**Dark Reader**](https://github.com/darkreader/darkreader) | Dark Reader | **$200k+** (Annual Rev) | **Indie**: Solo project by Alexander Shutov; monetized via App Store & donations. |
 | [**Wappalyzer**](https://github.com/aliasio/wappalyzer) | Wappalyzer | **$1M+** (Annual Rev) | **Indie**: Solo side project by Elbert Alias to identify web technologies. |
 | [**RatePunk**](https://github.com/ratepunk/ratepunk) | RatePunk | **$600k+** (Annual Rev) | **Indie**: Travel-tech extension that scaled via affiliate commissions. |
-| [**Next.js**](https://github.com/vercel/next.js) | Vercel | **$3B+** (Private) | **Corporate**: Released by Zeit (now Vercel) as a flagship framework. |
+| [**Dark Reader**](https://github.com/darkreader/darkreader) | Dark Reader | **$200k+** (Annual Rev) | **Indie**: Solo project by Alexander Shutov; monetized via App Store & donations. |
 | [**Apache Spark**](https://github.com/apache/spark) | Databricks | **$43B** (Private) | **Academic**: Research project at UC Berkeley's AMPLab. |
-| [**Apache Kafka**](https://github.com/apache/kafka) | Confluent | **$7B+** (Public) | **Corporate**: Built as an internal data pipeline at LinkedIn. |
 | [**MongoDB**](https://github.com/mongodb/mongo) | MongoDB | **$20B+** (Public) | **Corporate**: Built by 10gen (the company) as a proprietary-turned-OSS database. |
-| [**Supabase**](https://github.com/supabase/supabase) | Supabase | **$1B+** (Private) | **Startup**: Born in Y Combinator specifically to challenge Firebase. |
-| [**Transformers**](https://github.com/huggingface/transformers) | Hugging Face | **$4.5B** (Private) | **Startup**: Built by the Hugging Face team as a foundational AI library. |
+| [**Apache Kafka**](https://github.com/apache/kafka) | Confluent | **$7B+** (Public) | **Corporate**: Built as an internal data pipeline at LinkedIn. |
 | [**Mistral**](https://github.com/mistralai/mistral-inference) | Mistral AI | **$6B** (Private) | **Startup**: Founded by former Meta/Google researchers with seed funding. |
+| [**Kubernetes**](https://github.com/kubernetes/kubernetes) | Google (CNCF) | **$Multi-Billion** (Core Industry standard) | **Corporate**: Designed by Google as an open-source container orchestration system based on Borg. |
+| [**CockroachDB**](https://github.com/cockroachdb/cockroach) | Cockroach Labs | **$5B** (Private) | **Startup**: Founded by ex-Google engineers to build a cloud-native SQL database. |
+| [**Transformers**](https://github.com/huggingface/transformers) | Hugging Face | **$4.5B** (Private) | **Startup**: Built by the Hugging Face team as a foundational AI library. |
+| [**Next.js**](https://github.com/vercel/next.js) | Vercel | **$3B+** (Private) | **Corporate**: Released by Zeit (now Vercel) as a flagship framework. |
+| [**Docker**](https://github.com/moby/moby) | Docker | **$2.1B** (Private) | **Startup**: Originally started as dotCloud (PaaS), later pivoted to focus entirely on the open-source container project. |
+| [**Airbyte**](https://github.com/airbytehq/airbyte) | Airbyte | **$1.5B** (Private) | **Startup**: Founded to build an open-source data integration platform. |
+| [**Supabase**](https://github.com/supabase/supabase) | Supabase | **$1B+** (Private) | **Startup**: Born in Y Combinator specifically to challenge Firebase. |
 
 ---
 
