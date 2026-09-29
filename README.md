@@ -122,23 +122,39 @@ Kickstart your journey to $1M in software revenue with these actionable steps:
 
 ---
 
-### From Open Source to Unicorn 🦄
+### From Open Source to Unicorn 🦄 ($1B+ Valuation / Exit)
 
-The table below showcases open-source projects that scaled into multi-million and multi-billion dollar enterprises, categorizing their initial stage:
+The table below showcases flagship open-source projects that scaled into multi-billion dollar tech giants:
 
 | Project / Repository | Company | Valuation / Exit / ARR | Origin Stage | Business Model |
 | :--- | :--- | :--- | :--- | :--- |
+| [**Apache Spark**](https://github.com/apache/spark) ⚡ | Databricks | **$43B** (Private) | **Academic**: UC Berkeley AMPLab research project | Managed Lakehouse Cloud Platform |
 | [**Linux**](https://github.com/torvalds/linux) 🐧 | Red Hat / IBM | **$34B** (Acquisition) | **Indie**: Personal hobby project by Linus Torvalds | Enterprise Support & Subscriptions |
+| [**MongoDB**](https://github.com/mongodb/mongo) 🍃 | MongoDB | **$20B+** (Public) | **Corporate**: 10gen internal database | MongoDB Atlas Managed Cloud |
 | [**GitLab**](https://github.com/gitlabhq/gitlabhq) 🦊 | GitLab | **$10B+** (Public) | **Indie**: Side project by Dmitriy Zaporozhets | Open Core & Hosted SaaS |
 | [**Elasticsearch**](https://github.com/elastic/elasticsearch) 🔎 | Elastic | **$8B+** (Public) | **Indie**: Solo project by Shay Banon | Managed Cloud & Enterprise Features |
+| [**Apache Kafka**](https://github.com/apache/kafka) 📨 | Confluent | **$7B+** (Public) | **Corporate**: LinkedIn internal data pipeline | Confluent Cloud Managed SaaS |
 | [**Vagrant**](https://github.com/hashicorp/vagrant) / [**Terraform**](https://github.com/hashicorp/terraform) 🏗️ | HashiCorp / IBM | **$6.4B** (Acquisition) | **Indie**: Student project by Mitchell Hashimoto | Open Core Cloud & Enterprise Suite |
 | [**Grafana**](https://github.com/grafana/grafana) 📊 | Grafana Labs | **$6B** (Private) | **Indie**: Side project/fork by Torkel Ödegaard | Managed Cloud & Enterprise Plugin Suite |
+| [**Mistral**](https://github.com/mistralai/mistral-inference) 🤖 | Mistral AI | **$6B** (Private) | **Startup**: Open-weight generative AI foundation models | Commercial API & Enterprise Models |
+| [**Transformers**](https://github.com/huggingface/transformers) 🤗 | Hugging Face | **$4.5B** (Private) | **Startup**: Open-source machine learning library | Enterprise Hub, Compute, & Endpoints |
 | [**dbt**](https://github.com/dbt-labs/dbt-core) 🔄 | dbt Labs | **$4.2B** (Private) | **Indie**: Internal tool built at Fishtown Analytics | Cloud Platform & Collaboration |
 | [**Sentry**](https://github.com/getsentry/sentry) 🚨 | Sentry | **$3B+** (Private) | **Indie**: Side project by David Cramer & Chris Jennings | Hosted SaaS & Business Tier Licensing |
 | [**Odoo**](https://github.com/odoo/odoo) 💼 | Odoo | **$3B+** (Private) | **Indie**: Started as "TinyERP" in a student dorm | Open Core & App Marketplace |
+| [**Next.js**](https://github.com/vercel/next.js) ▲ | Vercel | **$3B+** (Private) | **Corporate**: React framework by Zeit (Vercel) | Managed Edge Hosting & Vercel Platform |
 | [**Redis**](https://github.com/redis/redis) ⚡ | Redis | **$2B+** (Private) | **Indie**: Solo project by Salvatore Sanfilippo (`antirez`) | Managed Cloud & Enterprise Modules |
 | [**MySQL**](https://github.com/mysql/mysql-server) 🐬 | MySQL / Oracle | **$1B** (Acquisition) | **Indie**: Database hobby project by Michael Widenius | Dual Licensing & Commercial Support |
 | [**WireGuard**](https://github.com/WireGuard/wireguard-linux) 🔒 | Tailscale | **$1B+** (Private) | **Indie**: Solo security research by Jason Donenfeld | Managed Mesh SaaS & Zero Trust Network |
+| [**Supabase**](https://github.com/supabase/supabase) ⚡ | Supabase | **$1B+** (Private) | **Startup**: Open source Firebase alternative | Managed PostgreSQL & Auth Cloud |
+
+---
+
+### Mid-Sized & High-Growth Open Source Companies 📈 ($10M – $1B Valuation / Exit / Funding)
+
+The table below features fast-growing commercial open-source software (COSS) companies scaling toward unicorn status:
+
+| Project / Repository | Company | Valuation / Exit / Funding | Origin Stage | Business Model |
+| :--- | :--- | :--- | :--- | :--- |
 | [**Nginx**](https://github.com/nginx/nginx) 🌐 | Nginx / F5 | **$670M** (Acquisition) | **Indie**: Solo web server by Igor Sysoev | Nginx Plus Enterprise Features & Support |
 | [**Bitwarden**](https://github.com/bitwarden/browser) 🔑 | Bitwarden | **$200M+** (Funding) | **Indie**: Solo project by Kyle Spearrin | Freemium Hosted Sync & Enterprise SSO |
 | [**Ansible**](https://github.com/ansible/ansible) 📜 | Red Hat | **$150M** (Acquisition) | **Indie**: Solo automation project by Michael DeHaan | Enterprise Tower / Automation Platform |
@@ -146,19 +162,23 @@ The table below showcases open-source projects that scaled into multi-million an
 | [**Appwrite**](https://github.com/appwrite/appwrite) 🚀 | Appwrite | **$100M+** (Private) | **Indie**: Solo Backend-as-a-Service by Eldad Fux | Managed Cloud Infrastructure |
 | [**Strapi**](https://github.com/strapi/strapi) 🚀 | Strapi | **$100M+** (VC-backed) | **Indie**: University project by French engineering students | Enterprise Edition & Cloud CMS |
 | [**Cal.com**](https://github.com/calcom/cal.com) 📅 | Cal.com | **$100M+** (Private) | **Indie**: Open-source Calendly alternative | Hosted Cloud & White-Label Enterprise |
+| [**Chroma**](https://github.com/chroma-core/chroma) 🎨 | Chroma | **$75M+** (Valuation) | **Startup**: Open-source AI embedding database | Hosted Cloud & Vector Search API |
+| [**Lago**](https://github.com/getlago/lago) 💳 | Lago | **$22M+** (Funding) | **Startup**: Open-source metering and billing engine | Open Core & Managed Cloud SaaS |
+
+---
+
+### Early-Stage & Bootstrapped Open Source Startups 🚀 (<$10M Funding / ARR)
+
+The table below highlights promising early-stage startups and high-earning indie projects:
+
+| Project / Repository | Company | Valuation / Funding / ARR | Origin Stage | Business Model |
+| :--- | :--- | :--- | :--- | :--- |
 | [**Ghost**](https://github.com/TryGhost/Ghost) 👻 | Ghost Foundation | **$5M+** ARR | **Indie**: Open-source publishing platform by John O'Nolan | Managed Ghost(Pro) Hosting |
 | [**LanguageTool**](https://github.com/languagetool-org/languagetool) ✍️ | LanguageTool | **$3.3M+** ARR | **Indie**: Solo grammar checker by Daniel Naber | Premium API & Browser Extension SaaS |
+| [**Supermemory**](https://github.com/dhravya/supermemory) 🧠 | Supermemory | **$3M** (Funding) | **Indie**: Open-source AI memory engine by Dhravya Shah | Managed Cloud & Enterprise AI Context Infrastructure |
 | [**Wappalyzer**](https://github.com/aliasio/wappalyzer) 🔍 | Wappalyzer | **$1M+** ARR | **Indie**: Solo project by Elbert Alias | Data API, Datasets, & Pro Extension |
 | [**RatePunk**](https://github.com/ratepunk/ratepunk) ✈️ | RatePunk | **$600k+** ARR | **Indie**: Travel booking extension | Affiliate Commissions & Travel Deals |
 | [**Dark Reader**](https://github.com/darkreader/darkreader) 🌙 | Dark Reader | **$200k+** ARR | **Indie**: Solo eye-care browser extension by Alexander Shutov | App Store Sales & GitHub Sponsors |
-| [**Apache Spark**](https://github.com/apache/spark) ⚡ | Databricks | **$43B** (Private) | **Academic**: UC Berkeley AMPLab research project | Managed Lakehouse Cloud Platform |
-| [**MongoDB**](https://github.com/mongodb/mongo) 🍃 | MongoDB | **$20B+** (Public) | **Corporate**: 10gen internal database | MongoDB Atlas Managed Cloud |
-| [**Apache Kafka**](https://github.com/apache/kafka) 📨 | Confluent | **$7B+** (Public) | **Corporate**: LinkedIn internal data pipeline | Confluent Cloud Managed SaaS |
-| [**Mistral**](https://github.com/mistralai/mistral-inference) 🤖 | Mistral AI | **$6B** (Private) | **Startup**: Open-weight generative AI foundation models | Commercial API & Enterprise Models |
-| [**Kubernetes**](https://github.com/kubernetes/kubernetes) ☸️ | Google / CNCF | **$Multi-Billion** Standard | **Corporate**: Google container orchestration (Borg) | Enterprise Cloud Platforms (GKE, EKS) |
-| [**Transformers**](https://github.com/huggingface/transformers) 🤗 | Hugging Face | **$4.5B** (Private) | **Startup**: Open-source machine learning library | Enterprise Hub, Compute, & Endpoints |
-| [**Next.js**](https://github.com/vercel/next.js) ▲ | Vercel | **$3B+** (Private) | **Corporate**: React framework by Zeit (Vercel) | Managed Edge Hosting & Vercel Platform |
-| [**Supabase**](https://github.com/supabase/supabase) ⚡ | Supabase | **$1B+** (Private) | **Startup**: Open source Firebase alternative | Managed PostgreSQL & Auth Cloud |
 
 ---
 
